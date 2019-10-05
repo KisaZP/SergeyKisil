@@ -5,5 +5,5 @@ AB = float(AB)
 AC = float(AC)
 BC = math.sqrt(AB ** 2 + AC ** 2)
 S = (AB * AC) / 2
-print(BC)
-print(S)
+print('Гипотенуза:', BC)
+print('Площадь', S)
